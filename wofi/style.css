@@ -1,0 +1,31 @@
+window {
+    margin: 0px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    background-color: rgba(30, 30, 46, 0.85); /* Темный фон с прозрачностью */
+    font-family: "JetBrains Mono", sans-serif;
+    font-size: 14px;
+}
+
+#input {
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 0.07);
+    color: #cdd6f4;
+    padding: 8px;
+}
+
+#inner-box {
+    margin: 10px;
+}
+
+#entry:selected {
+    background-color: #b4befe; /* Цвет акцента (пастельный синий) */
+    border-radius: 8px;
+}
+
+#text:selected {
+    color: #11111b;
+    font-weight: bold;
+}
