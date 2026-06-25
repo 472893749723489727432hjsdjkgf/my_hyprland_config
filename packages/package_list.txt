@@ -1,0 +1,15 @@
+obsidian
+wofi
+waybar
+git
+fastfetch
+vlc
+telegram-desktop
+hyprlock
+ttf-jetbrains-mono
+papirus-icon-theme
+file
+bat
+kitty
+zsh
+fish
